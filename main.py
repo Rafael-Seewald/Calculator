@@ -19,9 +19,9 @@ all_values = ''
 
 def enter_values(event):
     """
-    -> Recebe dos botões o valor a ser exibido na telinha da calculadora
-    :param event: the button' value
-    :return:
+    -> Recebe dos botões o valor a ser calculado 
+    :param event: O valor do botão
+    :return: Exibe na telinha da calculadora os valores precionados
     """
     global all_values
     all_values = all_values + str(event)
