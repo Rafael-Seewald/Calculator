@@ -11,7 +11,7 @@ Uma cálculadora simples com um design bem bonito.
 Sendo útil para qualquer necessidade básica com cálculos.</h3>
 
 <h1 align="center">
-<img src="./gif.mp4" width="740" height="530"></img>
+<img src="./gif.gif" width="740" height="530"></img>
 </h1>
 
 <h2>Falta adicionar:</h2>
