@@ -17,8 +17,8 @@ Uma cálculadora simples com um design bem bonito.
 <li>Botão de deletar último caractere da telinha da calculadora</li>
 <li>Configurar cálculos que podem causar problemas com "+*-" juntos</li>
 
-O projeto consegue calcular facilmente operações básicas matemáticas no mesmo momento, com um design intuitivo e bonito ao usuário.
-Sendo útil para qualquer necessidade básica com cálculos.
+<h3>O projeto consegue calcular facilmente operações básicas matemáticas no mesmo momento, com um design intuitivo e bonito ao usuário.
+Sendo útil para qualquer necessidade básica com cálculos.</h3>
 
 <div align="center">
   <footer>
