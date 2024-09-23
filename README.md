@@ -22,11 +22,11 @@ Sendo útil para qualquer necessidade básica com cálculos.</h3>
 <li>Configurar cálculos que podem causar problemas com "+*-" juntos</li>
 
 
-
+<hr>
 <div align="center">
   <footer>
     <br>
     <a href="https://www.instagram.com/vinyyboy_seewald/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
-    <h5>| Feito com ❤️ por: Rafael Seewald👋|</h5>
+    <h4>| Feito com ❤️ por: Rafael Seewald👋|</h4>
   </footer>
 </div>
